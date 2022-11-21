@@ -71,78 +71,91 @@
             "id": "1",
             "title": "Big Buck Bunny",
             "uid": "xya23asashfhgfghdffasdf_info_1",
+            "thumbnail": "https://picsum.photos/375/500?random=1",
             "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge."
         },
         {
             "id": "2",
             "title": "Elephant Dream",
             "uid": "xya23asashfhgfghdffasdf_info_2",
+            "thumbnail": "https://picsum.photos/375/500?random=2",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "3",
             "title": "For Bigger Blazes",
             "uid": "xya23asashfhgfghdffasdf_info_3",
+            "thumbnail": "https://picsum.photos/375/500?random=3",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "4",
             "title": "For Bigger Escape",
             "uid": "xya23asashfhgfghdffasdf_info_4",
+            "thumbnail": "https://picsum.photos/375/500?random=4",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "5",
             "title": "For Bigger Fun",
             "uid": "xya23asashfhgfghdffasdf_info_5",
+            "thumbnail": "https://picsum.photos/375/500?random=5",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "6",
             "title": "For Bigger Joyrides",
             "uid": "xya23asashfhgfghdffasdf_info_6",
+            "thumbnail": "https://picsum.photos/375/500?random=6",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "7",
             "title": "For Bigger Meltdowns",
             "uid": "xya23asashfhgfghdffasdf_info_7",
+            "thumbnail": "https://picsum.photos/375/500?random=7",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "8",
             "title": "Sintel",
             "uid": "xya23asashfhgfghdffasdf_info_8",
+            "thumbnail": "https://picsum.photos/375/500?random=8",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "9",
             "title": "Subaru Outback On Street And Dirt",
             "uid": "xya23asashfhgfghdffasdf_info_9",
+            "thumbnail": "https://picsum.photos/375/500?random=9",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "10",
             "title": "Tears of Steel",
             "uid": "xya23asashfhgfghdffasdf_info_10",
+            "thumbnail": "https://picsum.photos/375/500?random=10",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "11",
             "title": "Volkswagen GTI Review",
             "uid": "xya23asashfhgfghdffasdf_info_11",
+            "thumbnail": "https://picsum.photos/375/500?random=11",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "12",
             "title": "We Are Going On Bullrun",
             "uid": "xya23asashfhgfghdffasdf_info_12",
+            "thumbnail": "https://picsum.photos/375/500?random=12",
             "description": "The first Blender Open Movie from 2006"
         },
         {
             "id": "13",
             "title": "What care can",
             "uid": "xya23asashfhgfghdffasdf_info_13",
+            "thumbnail": "https://picsum.photos/375/500?random=13",
             "description": "The first Blender Open Movie from 2006"
         }
     ],
