@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "videos": [
+    { "id": 1, "title": "Video 1", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+    { "id": 2, "title": "Video 2", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"  },
+    { "id": 3, "title": "Video 3", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Kartik Fulara"
   }
 }
