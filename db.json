@@ -1,10 +1,157 @@
 {
-  "videos": [
-    { "id": 1, "title": "Video 1", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
-    { "id": 2, "title": "Video 2", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"  },
-    { "id": 3, "title": "Video 3", "video":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
-  ],
-  "profile": {
-    "name": "Kartik Fulara"
-  }
+    "videos": [
+        {
+            "id": "1",
+            "uid": "xya23asashfhgfghdffasdf_video_1",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "id": "2",
+            "uid": "xya23asashfhgfghdffasdf_video_2",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+            "id": "3",
+            "uid": "xya23asashfhgfghdffasdf_video_3",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        },
+        {
+            "id": "4",
+            "uid": "xya23asashfhgfghdffasdf_video_4",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+        },
+        {
+            "id": "5",
+            "uid": "xya23asashfhgfghdffasdf_video_5",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        },
+        {
+            "id": "6",
+            "uid": "xya23asashfhgfghdffasdf_video_6",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        },
+        {
+            "id": "7",
+            "uid": "xya23asashfhgfghdffasdf_video_7",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+        },
+        {
+            "id": "8",
+            "uid": "xya23asashfhgfghdffasdf_video_8",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+        },
+        {
+            "id": "9",
+            "uid": "xya23asashfhgfghdffasdf_video_9",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+        },
+        {
+            "id": "10",
+            "uid": "xya23asashfhgfghdffasdf_video_10",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+        },
+        {
+            "id": "11",
+            "uid": "xya23asashfhgfghdffasdf_video_11",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+        },
+        {
+            "id": "12",
+            "uid": "xya23asashfhgfghdffasdf_video_12",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+        },
+        {
+            "id": "13",
+            "uid": "xya23asashfhgfghdffasdf_video_13",
+            "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+        }
+    ],
+    "infos": [
+        {
+            "id": "1",
+            "title": "Big Buck Bunny",
+            "uid": "xya23asashfhgfghdffasdf_info_1",
+            "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge."
+        },
+        {
+            "id": "2",
+            "title": "Elephant Dream",
+            "uid": "xya23asashfhgfghdffasdf_info_2",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "3",
+            "title": "For Bigger Blazes",
+            "uid": "xya23asashfhgfghdffasdf_info_3",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "4",
+            "title": "For Bigger Escape",
+            "uid": "xya23asashfhgfghdffasdf_info_4",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "5",
+            "title": "For Bigger Fun",
+            "uid": "xya23asashfhgfghdffasdf_info_5",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "6",
+            "title": "For Bigger Joyrides",
+            "uid": "xya23asashfhgfghdffasdf_info_6",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "7",
+            "title": "For Bigger Meltdowns",
+            "uid": "xya23asashfhgfghdffasdf_info_7",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "8",
+            "title": "Sintel",
+            "uid": "xya23asashfhgfghdffasdf_info_8",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "9",
+            "title": "Subaru Outback On Street And Dirt",
+            "uid": "xya23asashfhgfghdffasdf_info_9",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "10",
+            "title": "Tears of Steel",
+            "uid": "xya23asashfhgfghdffasdf_info_10",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "11",
+            "title": "Volkswagen GTI Review",
+            "uid": "xya23asashfhgfghdffasdf_info_11",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "12",
+            "title": "We Are Going On Bullrun",
+            "uid": "xya23asashfhgfghdffasdf_info_12",
+            "description": "The first Blender Open Movie from 2006"
+        },
+        {
+            "id": "13",
+            "title": "What care can",
+            "uid": "xya23asashfhgfghdffasdf_info_13",
+            "description": "The first Blender Open Movie from 2006"
+        }
+    ],
+    "profiles": [
+        {
+            "id": "1",
+            "uid": "xya23asashfhgfghdffasdf",
+            "name": "Kartik Fulara",
+            "email": ""
+        }
+    ]
 }
